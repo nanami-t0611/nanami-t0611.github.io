@@ -70,7 +70,7 @@ $(".match-list").slick({
     // 自動で画像が切り替わるか否か
     autoplay: true,
     // 切り替わる時間
-    autoplaySpeed: 10000,
+    autoplaySpeed: 3000,
     // 無限ループ
     infinite: true,
     // レスポンシブ↓
