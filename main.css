@@ -76,7 +76,7 @@ header {
 }
 header #main-header {
   position: relative;
-  background-image: url(../img/mainvisu.png);
+  background-image: url(img/mainvisu.png);
   background-size: cover;
   background-position: center;
   height: 100%;
